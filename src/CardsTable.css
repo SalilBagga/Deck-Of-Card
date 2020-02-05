@@ -1,0 +1,25 @@
+.buttonlook {
+  background-color: black;
+  color: #d4af37;
+  border: 0;
+  border: 1px solid;
+  box-shadow: 1px 5px 15px #888888;
+  font-size: 25px;
+  width: 250px;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 25px;
+  margin: auto;
+  right: 0;
+  left: 0;
+  position: absolute;
+}
+.deckdisplay {
+  margin-top: 100px;
+}
+.Deck-Title {
+  color: #d4af37;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}

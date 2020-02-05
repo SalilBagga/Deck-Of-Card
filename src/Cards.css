@@ -1,0 +1,14 @@
+.imgview {
+  padding-top: 20px;
+  margin: auto;
+  right: 0;
+  left: 0;
+  position: absolute;
+  width: 150px;
+  height: auto;
+}
+.cardsdisplay {
+  display: inline;
+  list-style: none;
+  color: #d4af37;
+}
